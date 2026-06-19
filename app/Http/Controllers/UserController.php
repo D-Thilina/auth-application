@@ -9,7 +9,7 @@ class UserController extends Controller
     public function userRegister():array
     {
         return [
-            'user' => 'Thilina'
+            'status' => 'endpoint call successfully'
         ];
     }
 }
